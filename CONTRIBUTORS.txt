@@ -8,3 +8,7 @@
 #
 # Names should be added to this file as:
 # Name <email address>
+Ralph Hancock <hancock@dircon.co.uk>
+John Hudson <tiro@tiro.com>
+Peter Martin, Joan Wardell, Christopher Samuel <fonts@sil.org>
+Aleksandr Andreev <aleksandr.andreev@gmail.com>

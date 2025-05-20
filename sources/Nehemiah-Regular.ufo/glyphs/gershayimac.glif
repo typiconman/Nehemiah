@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gershayimac" format="2">
+  <advance width="0"/>
+  <unicode hex="059E"/>
+  <anchor x="0" y="0" name="_Anchor-60"/>
+  <anchor x="0" y="0" name="_Anchor-48"/>
+  <anchor x="-293" y="0" name="Anchor-32"/>
+  <anchor x="0" y="0" name="_Anchor-32"/>
+  <anchor x="0" y="0" name="_Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="292" y="984" type="line"/>
+      <point x="185" y="754" type="line"/>
+      <point x="133" y="778" type="line"/>
+      <point x="240" y="1007" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="984" type="line"/>
+      <point x="54" y="754" type="line"/>
+      <point x="2" y="778" type="line"/>
+      <point x="109" y="1007" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>754</integer>
+            <key>width</key>
+            <integer>253</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>2</integer>
+            <key>width</key>
+            <integer>290</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="2">
+  <advance width="383"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="339" y="435" type="curve" smooth="yes"/>
+      <point x="339" y="393.667"/>
+      <point x="324.667" y="358.833"/>
+      <point x="296" y="330.5" type="curve" smooth="yes"/>
+      <point x="267.333" y="302.167"/>
+      <point x="232.667" y="288"/>
+      <point x="192" y="288" type="curve" smooth="yes"/>
+      <point x="150.667" y="288"/>
+      <point x="115.833" y="302.333"/>
+      <point x="87.5" y="331" type="curve" smooth="yes"/>
+      <point x="59.1667" y="359.667"/>
+      <point x="45" y="394.333"/>
+      <point x="45" y="435" type="curve" smooth="yes"/>
+      <point x="45" y="476.333"/>
+      <point x="59.1667" y="511.333"/>
+      <point x="87.5" y="540" type="curve" smooth="yes"/>
+      <point x="115.833" y="568.667"/>
+      <point x="150.667" y="583"/>
+      <point x="192" y="583" type="curve" smooth="yes"/>
+      <point x="233.333" y="583"/>
+      <point x="268.167" y="568.667"/>
+      <point x="296.5" y="540" type="curve" smooth="yes"/>
+      <point x="324.833" y="511.333"/>
+      <point x="339" y="476.333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>288</integer>
+            <key>width</key>
+            <integer>295</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>45</integer>
+            <key>width</key>
+            <integer>294</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

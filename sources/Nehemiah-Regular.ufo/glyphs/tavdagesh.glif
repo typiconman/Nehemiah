@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tavdagesh" format="2">
+  <advance width="668"/>
+  <unicode hex="FB4A"/>
+  <anchor x="-146" y="0" name="Anchor-61"/>
+  <anchor x="439" y="0" name="Anchor-60"/>
+  <anchor x="415" y="0" name="Anchor-55"/>
+  <anchor x="488" y="0" name="Anchor-54"/>
+  <anchor x="537" y="0" name="Anchor-53"/>
+  <anchor x="439" y="0" name="Anchor-52"/>
+  <anchor x="488" y="0" name="Anchor-51"/>
+  <anchor x="439" y="0" name="Anchor-50"/>
+  <anchor x="244" y="0" name="Anchor-49"/>
+  <anchor x="269" y="0" name="Anchor-48"/>
+  <anchor x="195" y="0" name="Anchor-47"/>
+  <anchor x="-171" y="0" name="Anchor-46"/>
+  <anchor x="-220" y="0" name="Anchor-45"/>
+  <anchor x="98" y="0" name="Anchor-43"/>
+  <anchor x="-151" y="0" name="Anchor-42"/>
+  <anchor x="317" y="0" name="Anchor-41"/>
+  <anchor x="415" y="0" name="Anchor-40"/>
+  <anchor x="513" y="0" name="Anchor-39"/>
+  <anchor x="220" y="0" name="Anchor-38"/>
+  <anchor x="317" y="0" name="Anchor-37"/>
+  <anchor x="415" y="0" name="Anchor-36"/>
+  <anchor x="293" y="0" name="Anchor-18"/>
+  <anchor x="49" y="0" name="Anchor-17"/>
+  <anchor x="195" y="0" name="Anchor-16"/>
+  <anchor x="98" y="0" name="Anchor-15"/>
+  <anchor x="-73" y="0" name="Anchor-14"/>
+  <anchor x="-171" y="0" name="Anchor-13"/>
+  <anchor x="244" y="0" name="Anchor-12"/>
+  <anchor x="73" y="0" name="Anchor-11"/>
+  <anchor x="195" y="0" name="Anchor-10"/>
+  <anchor x="-98" y="0" name="Anchor-9"/>
+  <anchor x="464" y="0" name="Anchor-8"/>
+  <anchor x="244" y="0" name="Anchor-7"/>
+  <anchor x="-49" y="0" name="Anchor-6"/>
+  <anchor x="98" y="0" name="Anchor-5"/>
+  <anchor x="98" y="0" name="Anchor-4"/>
+  <anchor x="98" y="0" name="Anchor-3"/>
+  <anchor x="195" y="0" name="Anchor-2"/>
+  <anchor x="269" y="0" name="Anchor-1"/>
+  <outline>
+    <component base="tav"/>
+    <component base="dagesh" xOffset="305"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>284</integer>
+            <key>width</key>
+            <integer>94</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>497</integer>
+            <key>width</key>
+            <integer>166</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>74</integer>
+            <key>width</key>
+            <integer>47</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>305</integer>
+            <key>width</key>
+            <integer>95</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

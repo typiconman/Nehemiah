@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etnahta" format="2">
+  <advance width="0"/>
+  <unicode hex="0591"/>
+  <anchor x="220" y="0" name="Anchor-58"/>
+  <anchor x="98" y="0" name="Anchor-57"/>
+  <anchor x="-73" y="0" name="Anchor-56"/>
+  <anchor x="0" y="0" name="_Anchor-55"/>
+  <anchor x="-195" y="0" name="Anchor-31"/>
+  <anchor x="-122" y="0" name="Anchor-30"/>
+  <anchor x="-342" y="0" name="Anchor-29"/>
+  <anchor x="-220" y="0" name="Anchor-28"/>
+  <anchor x="-293" y="0" name="Anchor-27"/>
+  <anchor x="0" y="0" name="_Anchor-27"/>
+  <anchor x="-293" y="0" name="Anchor-26"/>
+  <anchor x="-146" y="0" name="Anchor-25"/>
+  <anchor x="0" y="0" name="_Anchor-22"/>
+  <anchor x="0" y="0" name="_Anchor-16"/>
+  <outline>
+    <contour>
+      <point x="264" y="-260" type="line"/>
+      <point x="216" y="-292" type="line"/>
+      <point x="133" y="-174" type="line"/>
+      <point x="50" y="-292" type="line"/>
+      <point x="3" y="-260" type="line"/>
+      <point x="133" y="-75" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-292</integer>
+            <key>width</key>
+            <integer>217</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>3</integer>
+            <key>width</key>
+            <integer>261</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

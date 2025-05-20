@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dehi" format="2">
+  <advance width="0"/>
+  <unicode hex="05AD"/>
+  <anchor x="0" y="0" name="_Anchor-59"/>
+  <anchor x="0" y="0" name="_Anchor-58"/>
+  <anchor x="0" y="0" name="_Anchor-57"/>
+  <anchor x="0" y="0" name="_Anchor-56"/>
+  <anchor x="0" y="0" name="_Anchor-23"/>
+  <anchor x="0" y="0" name="_Anchor-17"/>
+  <outline>
+    <component base="tipeha" xOffset="480"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-328</integer>
+            <key>width</key>
+            <integer>253</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>479</integer>
+            <key>width</key>
+            <integer>157</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

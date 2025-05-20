@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="2">
+  <advance width="664"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <contour>
+      <point x="485" y="813" type="curve" smooth="yes"/>
+      <point x="485" y="798.333"/>
+      <point x="479.667" y="785.333"/>
+      <point x="469" y="774" type="curve" smooth="yes"/>
+      <point x="458.333" y="762.667"/>
+      <point x="445.333" y="757"/>
+      <point x="430" y="757" type="curve" smooth="yes"/>
+      <point x="415.333" y="757"/>
+      <point x="402.5" y="762.667"/>
+      <point x="391.5" y="774" type="curve" smooth="yes"/>
+      <point x="380.5" y="785.333"/>
+      <point x="375" y="798.333"/>
+      <point x="375" y="813" type="curve" smooth="yes"/>
+      <point x="375" y="827"/>
+      <point x="380.667" y="839.667"/>
+      <point x="392" y="851" type="curve" smooth="yes"/>
+      <point x="403.333" y="862.333"/>
+      <point x="416" y="868"/>
+      <point x="430" y="868" type="curve" smooth="yes"/>
+      <point x="444.667" y="868"/>
+      <point x="457.5" y="862.5"/>
+      <point x="468.5" y="851.5" type="curve" smooth="yes"/>
+      <point x="479.5" y="840.5"/>
+      <point x="485" y="827.667"/>
+    </contour>
+    <contour>
+      <point x="278" y="813" type="curve" smooth="yes"/>
+      <point x="278" y="798.333"/>
+      <point x="272.667" y="785.333"/>
+      <point x="262" y="774" type="curve" smooth="yes"/>
+      <point x="251.333" y="762.667"/>
+      <point x="238.333" y="757"/>
+      <point x="223" y="757" type="curve" smooth="yes"/>
+      <point x="208.333" y="757"/>
+      <point x="195.5" y="762.5"/>
+      <point x="184.5" y="773.5" type="curve" smooth="yes"/>
+      <point x="173.5" y="784.5"/>
+      <point x="168" y="797.333"/>
+      <point x="168" y="812" type="curve" smooth="yes"/>
+      <point x="168" y="826.667"/>
+      <point x="173.667" y="839.667"/>
+      <point x="185" y="851" type="curve" smooth="yes"/>
+      <point x="196.333" y="862.333"/>
+      <point x="209" y="868"/>
+      <point x="223" y="868" type="curve" smooth="yes"/>
+      <point x="237.667" y="868"/>
+      <point x="250.5" y="862.5"/>
+      <point x="261.5" y="851.5" type="curve" smooth="yes"/>
+      <point x="272.5" y="840.5"/>
+      <point x="278" y="827.667"/>
+    </contour>
+    <contour>
+      <point x="664" y="0" type="line"/>
+      <point x="426" y="0" type="line"/>
+      <point x="426" y="43" type="line"/>
+      <point x="484" y="48" type="line" smooth="yes"/>
+      <point x="486.667" y="48"/>
+      <point x="489.333" y="50.1667"/>
+      <point x="492" y="54.5" type="curve" smooth="yes"/>
+      <point x="494.667" y="58.8333"/>
+      <point x="495.333" y="62.3333"/>
+      <point x="494" y="65" type="curve" smooth="yes"/>
+      <point x="426" y="248" type="line"/>
+      <point x="194" y="248" type="line"/>
+      <point x="128" y="68" type="line" smooth="yes"/>
+      <point x="128" y="67.3333"/>
+      <point x="127.667" y="66.3333"/>
+      <point x="127" y="65" type="curve" smooth="yes"/>
+      <point x="127" y="54.3333"/>
+      <point x="132" y="48.6667"/>
+      <point x="142" y="48" type="curve" smooth="yes"/>
+      <point x="201" y="43" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="43" type="line"/>
+      <point x="58" y="55" type="line"/>
+      <point x="291" y="679" type="line"/>
+      <point x="366" y="679" type="line"/>
+      <point x="598" y="70" type="line" smooth="yes"/>
+      <point x="600.667" y="62.6667"/>
+      <point x="603" y="58"/>
+      <point x="605" y="56" type="curve" smooth="yes"/>
+      <point x="607" y="54"/>
+      <point x="611.667" y="52.3333"/>
+      <point x="619" y="51" type="curve" smooth="yes"/>
+      <point x="664" y="43" type="line"/>
+    </contour>
+    <contour>
+      <point x="407" y="296" type="line"/>
+      <point x="308" y="566" type="line"/>
+      <point x="212" y="296" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>43</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>248</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>659</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>757</integer>
+            <key>width</key>
+            <integer>111</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>168</integer>
+            <key>width</key>
+            <integer>110</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>375</integer>
+            <key>width</key>
+            <integer>110</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

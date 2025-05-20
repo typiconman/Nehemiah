@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maqaf" format="2">
+  <advance width="464"/>
+  <unicode hex="05BE"/>
+  <outline>
+    <contour>
+      <point x="421" y="580" type="line"/>
+      <point x="44" y="580" type="line"/>
+      <point x="44" y="661" type="line"/>
+      <point x="421" y="661" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>580</integer>
+            <key>width</key>
+            <integer>81</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
