@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1186506637
-ModificationTime: 1747818526
+ModificationTime: 1747819442
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3416,7 +3416,7 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033
 GaspTable: 3 8 0 16 1 65535 1 0
-Encoding: UnicodeBmp
+Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -3427,10 +3427,10 @@ WinInfo: 0 38 13
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-10" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-11" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-12" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-13" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-14" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-15" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-16" "'mark' Mark Positioning in Hebrew lookup 15 subtable" "Anchor-17" "'mark' Mark Positioning in Hebrew lookup 15 subtable" "Anchor-18" "'mark' Mark Positioning in Hebrew lookup 15 subtable" "Anchor-19" "'mark' Mark Positioning in Hebrew lookup 19 subtable" "Anchor-20" "'mark' Mark Positioning in Hebrew lookup 19 subtable" "Anchor-21" "'mark' Mark Positioning in Hebrew lookup 19 subtable" "Anchor-22" "'mark' Mark Positioning in Hebrew lookup 19 subtable" "Anchor-23" "'mark' Mark Positioning in Hebrew lookup 19 subtable" "Anchor-24" "'mark' Mark Positioning in Hebrew lookup 19 subtable" "Anchor-25" "'mark' Mark Positioning in Hebrew lookup 20 subtable" "Anchor-26" "'mark' Mark Positioning in Hebrew lookup 20 subtable" "Anchor-27" "'mark' Mark Positioning in Hebrew lookup 22 subtable" "Anchor-28" "'mark' Mark Positioning in Hebrew lookup 22 subtable" "Anchor-29" "'mark' Mark Positioning in Hebrew lookup 22 subtable" "Anchor-30" "'mark' Mark Positioning in Hebrew lookup 22 subtable" "Anchor-31" "'mark' Mark Positioning in Hebrew lookup 22 subtable" "Anchor-32" "'mark' Mark Positioning in Hebrew lookup 28 subtable" "Anchor-33" "'mark' Mark Positioning in Hebrew lookup 30 subtable" "Anchor-34" "Mark to base attachment lookup 31 subtable" "Anchor-35" "Mark to base attachment lookup 32 subtable" "Anchor-36" "Mark to base attachment lookup 33 subtable" "Anchor-37" "Mark to base attachment lookup 33 subtable" "Anchor-38" "Mark to base attachment lookup 33 subtable" "Anchor-39" "Mark to base attachment lookup 34 subtable" "Anchor-40" "Mark to base attachment lookup 34 subtable" "Anchor-41" "Mark to base attachment lookup 34 subtable" "Anchor-42" "Mark to base attachment lookup 35 subtable" "Anchor-43" "Mark to base attachment lookup 36 subtable" "Anchor-44" "Mark to base attachment lookup 37 subtable" "Anchor-45" "Mark to base attachment lookup 38 subtable" "Anchor-46" "Mark to base attachment lookup 38 subtable" "Anchor-47" "Mark to base attachment lookup 39 subtable" "Anchor-48" "Mark to base attachment lookup 40 subtable" "Anchor-49" "Mark to base attachment lookup 41 subtable" "Anchor-50" "Mark to base attachment lookup 42 subtable" "Anchor-51" "Mark to base attachment lookup 43 subtable" "Anchor-52" "Mark to base attachment lookup 43 subtable" "Anchor-53" "Mark to base attachment lookup 44 subtable" "Anchor-54" "Mark to base attachment lookup 44 subtable" "Anchor-55" "Mark to base attachment lookup 45 subtable" "Anchor-56" "Mark to Mark attachment lookup 46 subtable" "Anchor-57" "Mark to Mark attachment lookup 47 subtable" "Anchor-58" "Mark to Mark attachment lookup 48 subtable" "Anchor-59" "Mark to Mark attachment lookup 49 subtable" "Anchor-60" "Mark to base attachment lookup 50 subtable" "Anchor-61" "Mark to base attachment lookup 51 subtable"
-BeginChars: 65558 400
+BeginChars: 1114134 401
 
 StartChar: .notdef
-Encoding: 65536 -1 0
+Encoding: 1114112 -1 0
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -3453,7 +3453,7 @@ EndSplineSet
 EndChar
 
 StartChar: .null
-Encoding: 65537 -1 1
+Encoding: 1114113 -1 1
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -11738,16 +11738,16 @@ VStem: 0 301<585 649>
 LayerCount: 2
 Fore
 SplineSet
-301 585 m 1
- 0 585 l 1
- 0 649 l 1
- 301 649 l 1
- 301 585 l 1
+301 585 m 5
+ 0 585 l 5
+ 0 649 l 5
+ 301 649 l 5
+ 301 585 l 5
 EndSplineSet
 EndChar
 
 StartChar: number
-Encoding: 65538 -1 221
+Encoding: 1114114 -1 221
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -11769,7 +11769,7 @@ EndSplineSet
 EndChar
 
 StartChar: number2
-Encoding: 65539 -1 222
+Encoding: 1114115 -1 222
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -13820,6 +13820,7 @@ SplineSet
  509.333333333 229.666666667 529.333333333 205.666666667 540 187 c 0
  552 163.666666667 558 136 558 104 c 0xc8
 EndSplineSet
+LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 40 subtable" alef thinspace
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable" alef combininggrapehemejoiner
 EndChar
@@ -13891,6 +13892,7 @@ SplineSet
  558 166 l 1
  638 166 l 1xd0
 EndSplineSet
+LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 40 subtable" bet thinspace
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable" bet combininggrapehemejoiner
 EndChar
@@ -17030,7 +17032,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 9 subtable" 
 EndChar
 
 StartChar: underdot
-Encoding: 65540 -1 336
+Encoding: 1114116 -1 336
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -17042,7 +17044,7 @@ Refer: 263 1465 N 1 0 0 1 0 -1156 3
 EndChar
 
 StartChar: metegright
-Encoding: 65541 -1 337
+Encoding: 1114117 -1 337
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -17061,7 +17063,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 6 subtable" 
 EndChar
 
 StartChar: metegleft
-Encoding: 65542 -1 338
+Encoding: 1114118 -1 338
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -19086,7 +19088,7 @@ LayerCount: 2
 EndChar
 
 StartChar: finalkafsheva
-Encoding: 65543 -1 378
+Encoding: 1114119 -1 378
 Width: 673
 GlyphClass: 2
 Flags: W
@@ -19141,7 +19143,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable"
 EndChar
 
 StartChar: finalkafqamats
-Encoding: 65544 -1 379
+Encoding: 1114120 -1 379
 Width: 673
 GlyphClass: 2
 Flags: W
@@ -19196,7 +19198,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable"
 EndChar
 
 StartChar: holamvav
-Encoding: 65545 -1 380
+Encoding: 1114121 -1 380
 Width: 336
 GlyphClass: 2
 Flags: W
@@ -19253,7 +19255,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable"
 EndChar
 
 StartChar: vavshindot
-Encoding: 65546 -1 381
+Encoding: 1114122 -1 381
 Width: 336
 GlyphClass: 2
 Flags: W
@@ -19309,7 +19311,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable"
 EndChar
 
 StartChar: lamedholam
-Encoding: 65547 -1 382
+Encoding: 1114123 -1 382
 Width: 729
 GlyphClass: 2
 Flags: W
@@ -19364,7 +19366,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable"
 EndChar
 
 StartChar: lameddageshholam
-Encoding: 65548 -1 383
+Encoding: 1114124 -1 383
 Width: 729
 GlyphClass: 2
 Flags: W
@@ -19420,7 +19422,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable"
 EndChar
 
 StartChar: gimelrafe
-Encoding: 65549 -1 384
+Encoding: 1114125 -1 384
 Width: 361
 GlyphClass: 2
 Flags: W
@@ -19476,7 +19478,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable"
 EndChar
 
 StartChar: daletrafe
-Encoding: 65550 -1 385
+Encoding: 1114126 -1 385
 Width: 673
 GlyphClass: 2
 Flags: W
@@ -19531,7 +19533,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable"
 EndChar
 
 StartChar: herafe
-Encoding: 65551 -1 386
+Encoding: 1114127 -1 386
 Width: 673
 GlyphClass: 2
 Flags: W
@@ -19586,7 +19588,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable"
 EndChar
 
 StartChar: tavrafe
-Encoding: 65552 -1 387
+Encoding: 1114128 -1 387
 Width: 658
 GlyphClass: 2
 Flags: W
@@ -19641,7 +19643,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable"
 EndChar
 
 StartChar: hiriqmem
-Encoding: 65553 -1 388
+Encoding: 1114129 -1 388
 Width: 648
 GlyphClass: 2
 Flags: W
@@ -19696,7 +19698,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable"
 EndChar
 
 StartChar: hatafsegolmeteg
-Encoding: 65554 -1 389
+Encoding: 1114130 -1 389
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -19768,7 +19770,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 4 subtable" 
 EndChar
 
 StartChar: hatafpatahmeteg
-Encoding: 65555 -1 390
+Encoding: 1114131 -1 390
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -19818,7 +19820,7 @@ Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 4 subtable" 
 EndChar
 
 StartChar: hatafqamatsmeteg
-Encoding: 65556 -1 391
+Encoding: 1114132 -1 391
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -19896,7 +19898,7 @@ AnchorPoint: "Anchor-32" 0 0 mark 0
 AnchorPoint: "Anchor-7" 0 0 mark 0
 LayerCount: 2
 Fore
-Refer: 263 1465 N 1 0 0 1 24 0 3
+Refer: 263 1465 S 1 0 0 1 24 0 3
 LCarets2: 1 0
 Ligature2: "Ligature Substitution lookup 34 subtable" holam dotaccentcomb
 EndChar
@@ -19944,7 +19946,7 @@ Refer: 105 168 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: hebrewthousand
-Encoding: 65557 -1 396
+Encoding: 1114133 -1 396
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -20066,6 +20068,24 @@ MultipleSubs2: "Multiple Substitution lookup 40 subtable" qamatsqatan thinspace
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 11 subtable" qamatsqatan qamatsqatan
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable" qamatsqatan combininggrapehemejoiner
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 6 subtable" circledotted qamatsqatan
+EndChar
+
+StartChar: uni0304
+Encoding: 772 772 400
+Width: 0
+Flags: HW
+HStem: 737 64<0 264>
+VStem: 0 264<737 801>
+AnchorPoint: "Anchor-10" -1 1 mark 0
+LayerCount: 2
+Fore
+SplineSet
+264 737 m 1
+ 0 737 l 1
+ 0 801 l 1
+ 264 801 l 1
+ 264 737 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

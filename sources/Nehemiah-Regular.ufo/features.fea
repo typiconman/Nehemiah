@@ -3238,6 +3238,7 @@ lookup markMarkPositioninginHebrewlookup10 {
   markClass [\telishagedola ] <anchor 0 0> @Anchor8;
   markClass [\telishaqetana ] <anchor 0 0> @Anchor9;
   markClass [\zarqa \rafe \upperdot ] <anchor 0 0> @Anchor10;
+  markClass [\uni0304 ] <anchor -1 1> @Anchor10;
   markClass [\qarneyparah ] <anchor 0 0> @Anchor11;
   markClass [\gereshmuqdam ] <anchor 0 0> @Anchor12;
   markClass [\zinor ] <anchor 0 0> @Anchor13;
@@ -5106,7 +5107,7 @@ feature mark {
 	\qubuts \dagesh \meteg \rafe \shindot \sindot \upperdot \underdot \metegright 
 	\metegleft \varika \hatafsegolmeteg \hatafpatahmeteg \hatafqamatsmeteg 
 	\dotaccentcomb \dotsubcomb \dieresisnosp \hebrewthousand \etnahtahafukh 
-	\lowerdot \qamatsqatan ];
+	\lowerdot \qamatsqatan \uni0304 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
