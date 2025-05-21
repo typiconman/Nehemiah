@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0304" format="2">
+<glyph name="uni05CC" format="2">
   <advance width="0"/>
-  <unicode hex="0304"/>
-  <anchor x="-1" y="1" name="_Anchor-10"/>
+  <unicode hex="031C"/>
+  <anchor x="0" y="0" name="_Anchor-60"/>
+  <anchor x="0" y="0" name="_Anchor-48"/>
+  <anchor x="-293" y="0" name="Anchor-32"/>
+  <anchor x="0" y="0" name="_Anchor-32"/>
+  <anchor x="0" y="0" name="_Anchor-7"/>
   <outline>
     <contour>
-      <point x="264" y="755" type="line"/>
-      <point x="61" y="755" type="line"/>
-      <point x="61" y="811" type="line"/>
-      <point x="264" y="811" type="line"/>
+      <point x="123" y="755" type="line"/>
+      <point x="66" y="755" type="line"/>
+      <point x="66" y="997" type="line"/>
+      <point x="123" y="997" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,16 +25,16 @@
             <key>position</key>
             <integer>755</integer>
             <key>width</key>
-            <integer>56</integer>
+            <integer>242</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>61</integer>
+            <integer>66</integer>
             <key>width</key>
-            <integer>203</integer>
+            <integer>57</integer>
           </dict>
         </array>
       </dict>

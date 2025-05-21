@@ -804,5 +804,9 @@
     <string>qamatsqatan.glif</string>
     <key>uni0304</key>
     <string>uni0304.glif</string>
+    <key>uni05CC</key>
+    <string>uni05C_C_.glif</string>
+    <key>uni05CB</key>
+    <string>uni05C_B_.glif</string>
   </dict>
 </plist>

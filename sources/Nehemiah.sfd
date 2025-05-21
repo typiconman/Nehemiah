@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1186506637
-ModificationTime: 1747819442
+ModificationTime: 1747823624
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3427,7 +3427,7 @@ WinInfo: 0 38 13
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 1 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 6 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-10" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-11" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-12" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-13" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-14" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-15" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-16" "'mark' Mark Positioning in Hebrew lookup 15 subtable" "Anchor-17" "'mark' Mark Positioning in Hebrew lookup 15 subtable" "Anchor-18" "'mark' Mark Positioning in Hebrew lookup 15 subtable" "Anchor-19" "'mark' Mark Positioning in Hebrew lookup 19 subtable" "Anchor-20" "'mark' Mark Positioning in Hebrew lookup 19 subtable" "Anchor-21" "'mark' Mark Positioning in Hebrew lookup 19 subtable" "Anchor-22" "'mark' Mark Positioning in Hebrew lookup 19 subtable" "Anchor-23" "'mark' Mark Positioning in Hebrew lookup 19 subtable" "Anchor-24" "'mark' Mark Positioning in Hebrew lookup 19 subtable" "Anchor-25" "'mark' Mark Positioning in Hebrew lookup 20 subtable" "Anchor-26" "'mark' Mark Positioning in Hebrew lookup 20 subtable" "Anchor-27" "'mark' Mark Positioning in Hebrew lookup 22 subtable" "Anchor-28" "'mark' Mark Positioning in Hebrew lookup 22 subtable" "Anchor-29" "'mark' Mark Positioning in Hebrew lookup 22 subtable" "Anchor-30" "'mark' Mark Positioning in Hebrew lookup 22 subtable" "Anchor-31" "'mark' Mark Positioning in Hebrew lookup 22 subtable" "Anchor-32" "'mark' Mark Positioning in Hebrew lookup 28 subtable" "Anchor-33" "'mark' Mark Positioning in Hebrew lookup 30 subtable" "Anchor-34" "Mark to base attachment lookup 31 subtable" "Anchor-35" "Mark to base attachment lookup 32 subtable" "Anchor-36" "Mark to base attachment lookup 33 subtable" "Anchor-37" "Mark to base attachment lookup 33 subtable" "Anchor-38" "Mark to base attachment lookup 33 subtable" "Anchor-39" "Mark to base attachment lookup 34 subtable" "Anchor-40" "Mark to base attachment lookup 34 subtable" "Anchor-41" "Mark to base attachment lookup 34 subtable" "Anchor-42" "Mark to base attachment lookup 35 subtable" "Anchor-43" "Mark to base attachment lookup 36 subtable" "Anchor-44" "Mark to base attachment lookup 37 subtable" "Anchor-45" "Mark to base attachment lookup 38 subtable" "Anchor-46" "Mark to base attachment lookup 38 subtable" "Anchor-47" "Mark to base attachment lookup 39 subtable" "Anchor-48" "Mark to base attachment lookup 40 subtable" "Anchor-49" "Mark to base attachment lookup 41 subtable" "Anchor-50" "Mark to base attachment lookup 42 subtable" "Anchor-51" "Mark to base attachment lookup 43 subtable" "Anchor-52" "Mark to base attachment lookup 43 subtable" "Anchor-53" "Mark to base attachment lookup 44 subtable" "Anchor-54" "Mark to base attachment lookup 44 subtable" "Anchor-55" "Mark to base attachment lookup 45 subtable" "Anchor-56" "Mark to Mark attachment lookup 46 subtable" "Anchor-57" "Mark to Mark attachment lookup 47 subtable" "Anchor-58" "Mark to Mark attachment lookup 48 subtable" "Anchor-59" "Mark to Mark attachment lookup 49 subtable" "Anchor-60" "Mark to base attachment lookup 50 subtable" "Anchor-61" "Mark to base attachment lookup 51 subtable"
-BeginChars: 1114134 401
+BeginChars: 1114134 403
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -11921,6 +11921,7 @@ SplineSet
  57 845 67.5 840.5 76.5 831.5 c 0
  85.5 822.5 90 812 90 800 c 0xe0
 EndSplineSet
+LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 40 subtable" segolta thinspace
 Ligature2: "Ligature Substitution lookup 34 subtable" holam segolta
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable" segolta combininggrapehemejoiner
@@ -11958,6 +11959,7 @@ SplineSet
  168 797 l 1
  168 756 l 1
 EndSplineSet
+LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 40 subtable" shalshelet thinspace
 Ligature2: "Ligature Substitution lookup 34 subtable" holam shalshelet
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable" shalshelet combininggrapehemejoiner
@@ -11998,6 +12000,7 @@ SplineSet
  105.666666667 844 116.5 839.666666667 125.5 831 c 0
  134.5 822.333333333 139 812 139 800 c 0
 EndSplineSet
+LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 40 subtable" zaqefkatan thinspace
 Ligature2: "Ligature Substitution lookup 34 subtable" holam zaqefkatan
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable" zaqefkatan combininggrapehemejoiner
@@ -12043,6 +12046,7 @@ SplineSet
  57 997 l 1
  57 755 l 1
 EndSplineSet
+LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 40 subtable" zaqefgadol thinspace
 Ligature2: "Ligature Substitution lookup 34 subtable" holam zaqefgadol
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable" zaqefgadol combininggrapehemejoiner
@@ -13597,12 +13601,13 @@ AnchorPoint: "Anchor-10" 0 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
-264 755 m 1
- 61 755 l 1
- 61 811 l 1
- 264 811 l 1
- 264 755 l 1
+264 755 m 5
+ 61 755 l 5
+ 61 811 l 5
+ 264 811 l 5
+ 264 755 l 5
 EndSplineSet
+LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 40 subtable" rafe thinspace
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 10 subtable" rafe combininggrapehemejoiner
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 6 subtable" circledotted rafe
@@ -20073,18 +20078,75 @@ EndChar
 StartChar: uni0304
 Encoding: 772 772 400
 Width: 0
-Flags: HW
-HStem: 737 64<0 264>
-VStem: 0 264<737 801>
+Flags: W
+HStem: 755 56<61 264>
+VStem: 61 203<755 811>
 AnchorPoint: "Anchor-10" -1 1 mark 0
 LayerCount: 2
 Fore
 SplineSet
-264 737 m 1
- 0 737 l 1
- 0 801 l 1
- 264 801 l 1
- 264 737 l 1
+264 755 m 1
+ 61 755 l 1
+ 61 811 l 1
+ 264 811 l 1
+ 264 755 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni05CC
+Encoding: 796 796 401
+Width: 0
+Flags: W
+HStem: 755 242<66 123>
+VStem: 66 57<755 997>
+AnchorPoint: "Anchor-60" 0 0 mark 0
+AnchorPoint: "Anchor-48" 0 0 mark 0
+AnchorPoint: "Anchor-32" -293 0 basemark 0
+AnchorPoint: "Anchor-32" 0 0 mark 0
+AnchorPoint: "Anchor-7" 0 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+123 755 m 1
+ 66 755 l 1
+ 66 997 l 1
+ 123 997 l 1
+ 123 755 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni05CB
+Encoding: 795 795 402
+Width: 0
+Flags: W
+HStem: 755 89<61.8922 125.077> 907 90<61.8922 125.077>
+VStem: 49 90<768.408 830.593 920.923 983.593>
+AnchorPoint: "Anchor-60" 0 0 mark 0
+AnchorPoint: "Anchor-48" 0 0 mark 0
+AnchorPoint: "Anchor-32" -293 0 basemark 0
+AnchorPoint: "Anchor-32" 0 0 mark 0
+AnchorPoint: "Anchor-7" 0 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+139 953 m 4
+ 139 940.333333333 134.333333333 929.5 125 920.5 c 4
+ 115.666666667 911.5 105 907 93 907 c 260
+ 80.3333333333 907 69.8333333333 911.5 61.5 920.5 c 4
+ 53.1666666667 929.5 49 940.333333333 49 953 c 4
+ 49 965 53.1666666667 975.333333333 61.5 984 c 4
+ 69.8333333333 992.666666667 80.3333333333 997 93 997 c 260
+ 105.666666667 997 116.5 992.666666667 125.5 984 c 4
+ 134.5 975.333333333 139 965 139 953 c 4
+139 800 m 4
+ 139 787.333333333 134.5 776.666666667 125.5 768 c 4
+ 116.5 759.333333333 105.666666667 755 93 755 c 4
+ 80.3333333333 755 69.8333333333 759.333333333 61.5 768 c 4
+ 53.1666666667 776.666666667 49 787.333333333 49 800 c 260
+ 49 812.666666667 53.1666666667 823.166666667 61.5 831.5 c 4
+ 69.8333333333 839.833333333 80.3333333333 844 93 844 c 260
+ 105.666666667 844 116.5 839.666666667 125.5 831 c 4
+ 134.5 822.333333333 139 812 139 800 c 4
 EndSplineSet
 EndChar
 EndChars
