@@ -2022,7 +2022,7 @@ lookup markMarkPositioninginHebrewlookup0 {
 lookup markMarkPositioninginHebrewlookup1 {
   lookupflag RightToLeft;
   markClass [\sheva \hiriq \dieresisnosp ] <anchor 0 0> @Anchor1;
-  markClass [\tsere \segol \patah \qamats \qubuts \qamatsqatan ] <anchor 0 0> @Anchor2;
+  markClass [\tsere \segol \patah \qamats \qubuts \qamatsqatan \uni031A ] <anchor 0 0> @Anchor2;
   markClass [\hatafsegol \hatafpatah \hatafqamats ] <anchor 0 0> @Anchor3;
   markClass [\hatafsegolmeteg \hatafpatahmeteg \hatafqamatsmeteg ] <anchor 0 0> @Anchor4;
   pos base [\alef \alefmapiq \aleflamed ] <anchor 49 0> mark @Anchor4
@@ -3244,6 +3244,7 @@ lookup markMarkPositioninginHebrewlookup10 {
   markClass [\zinor ] <anchor 0 0> @Anchor13;
   markClass [\pashta ] <anchor 0 0> @Anchor14;
   markClass [\hebrewthousand ] <anchor 0 0> @Anchor15;
+  markClass [\uni0318 \uni0319 ] <anchor 2 1> @Anchor15;
   pos base [\alef \alefmapiq ] <anchor 49 0> mark @Anchor15
 	<anchor -73 0> mark @Anchor14
 	<anchor -171 0> mark @Anchor13
@@ -3723,7 +3724,8 @@ lookup markMarkPositioninginHebrewlookup12 {
 
 lookup Marktobaseattachmentlookup40 {
   lookupflag RightToLeft;
-  markClass [\segolta \shalshelet \zaqefkatan \zaqefgadol \revia \zarqa \gereshac \gershayimac \pazer \qadma \ole \iluy \masoracircle \rafe \upperdot \varika \dotaccentcomb \uni05CC \uni05CB ] <anchor 0 0> @Anchor48;
+  markClass [\segolta \shalshelet \zaqefkatan \zaqefgadol \revia \zarqa \gereshac \gershayimac \pazer \qadma \ole \iluy \masoracircle \rafe \upperdot \varika \dotaccentcomb \uni05CC \uni05CB \uni031A ] <anchor 0 0> @Anchor48;
+  markClass [\uni0318 \uni0319 ] <anchor 2 1> @Anchor48;
   pos base [\alef \bet \dalet \he \het \tet \finalkaf \kaf \finalmem \mem \samekh \ayin \pe \finaltsadi \tsadi \qof \resh \shin \tav \vavdbl \vavyod \yoddbl \circledotted \yodpatahdbl \altayin \alefmapiq \betdagesh \daletdagesh \hedagesh \tetdagesh \finalkafdagesh \kafdagesh \memdagesh \samekhdagesh \finalpedagesh \pedagesh \tsadidagesh \qofdagesh \reshdagesh \shindagesh \tavdagesh \finalkafsheva \finalkafqamats \holamvav \lamedholam \lameddageshholam \hiriqmem ] <anchor 269 0> mark @Anchor48;
   pos base [\gimel \vav \zayin \yod \finalnun \nun \yodhiriq \gimeldagesh \vavdagesh \yoddagesh \nundagesh \vavshindot ] <anchor 171 0> mark @Anchor48;
   pos base [\lamed \finalpe \zayindagesh \lameddagesh \vavholam ] <anchor 220 0> mark @Anchor48;
@@ -4865,7 +4867,8 @@ lookup markMarkPositioninginHebrewlookup26 {
 
 lookup Marktobaseattachmentlookup50 {
   lookupflag 0;
-  markClass [\shalshelet \zaqefkatan \zaqefgadol \revia \zarqa \gereshac \gershayimac \qarneyparah \telishagedola \pazer \qadma \telishaqetana \ole \iluy \masoracircle \upperdot \varika \dotaccentcomb \uni05CC \uni05CB ] <anchor 0 0> @Anchor60;
+  markClass [\shalshelet \zaqefkatan \zaqefgadol \revia \zarqa \gereshac \gershayimac \qarneyparah \telishagedola \pazer \qadma \telishaqetana \ole \iluy \masoracircle \upperdot \varika \dotaccentcomb \uni05CC \uni05CB \uni031A ] <anchor 0 0> @Anchor60;
+  markClass [\uni0318 \uni0319 ] <anchor 2 2> @Anchor60;
   pos base [\alef \kaf \samekh \finalpe \pe \tsadi \qof \altayin \alefmapiq \kafdagesh \samekhdagesh \finalpedagesh \pedagesh \tsadidagesh \qofdagesh \aleflamed ] <anchor 391 0> mark @Anchor60;
   pos base [\bet \dalet \he \het \tet \finalkaf \finalmem \tav \vavdbl \vavyod \yodpatahdbl \shinshindot \shindageshshindot \betdagesh \daletdagesh \hedagesh \tetdagesh \finalkafdagesh \tavdagesh \betrafe \kafrafe \perafe \finalkafsheva \finalkafqamats \daletrafe \herafe \tavrafe \hiriqmem ] <anchor 439 0> mark @Anchor60;
   pos base [\gimel \gimeldagesh \gimelrafe ] <anchor 220 0> mark @Anchor60;
@@ -4893,9 +4896,11 @@ lookup markMarkPositioninginHebrewlookup27 {
 
 lookup markMarkPositioninginHebrewlookup28 {
   lookupflag RightToLeft;
-  markClass [\shalshelet \zaqefkatan \zaqefgadol \revia \zarqa \gereshac \gershayimac \qarneyparah \telishagedola \pazer \qadma \telishaqetana \ole \iluy \masoracircle \upperdot \varika \dotaccentcomb \uni05CC \uni05CB ] <anchor 0 0> @Anchor32;
-  pos mark [\shalshelet \zaqefkatan \zaqefgadol \revia \zarqa \gereshac \gershayimac \qarneyparah \telishagedola \pazer \qadma \telishaqetana \ole \iluy \masoracircle \upperdot \varika \uni05CC \uni05CB ] <anchor -293 0> mark @Anchor32;
+  markClass [\shalshelet \zaqefkatan \zaqefgadol \revia \zarqa \gereshac \gershayimac \qarneyparah \telishagedola \pazer \qadma \telishaqetana \ole \iluy \masoracircle \upperdot \varika \dotaccentcomb \uni05CC \uni05CB \uni031A ] <anchor 0 0> @Anchor32;
+  markClass [\uni0318 \uni0319 ] <anchor 4 1> @Anchor32;
+  pos mark [\shalshelet \zaqefkatan \zaqefgadol \revia \zarqa \gereshac \gershayimac \qarneyparah \telishagedola \pazer \qadma \telishaqetana \ole \iluy \masoracircle \upperdot \varika \uni05CC \uni05CB \uni0318 \uni0319 ] <anchor -293 0> mark @Anchor32;
   pos mark [\dotaccentcomb ] <anchor 0 0> mark @Anchor32;
+  pos mark [\uni031A ] <anchor -284 -5> mark @Anchor32;
 } markMarkPositioninginHebrewlookup28;
 
 lookup Marktobaseattachmentlookup51 {
@@ -5107,7 +5112,7 @@ feature mark {
 	\qubuts \dagesh \meteg \rafe \shindot \sindot \upperdot \underdot \metegright 
 	\metegleft \varika \hatafsegolmeteg \hatafpatahmeteg \hatafqamatsmeteg 
 	\dotaccentcomb \dotsubcomb \dieresisnosp \hebrewthousand \etnahtahafukh 
-	\lowerdot \qamatsqatan \uni0304 \uni05CC \uni05CB ];
+	\lowerdot \qamatsqatan \uni0304 \uni05CC \uni05CB \uni0318 \uni0319 \uni031A ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
