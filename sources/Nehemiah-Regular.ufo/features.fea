@@ -1,3 +1,4 @@
+languagesystem DFLT dflt;
 languagesystem hebr dflt;
 
 
@@ -10,7 +11,7 @@ lookup SingleSubstitutionlookup28 {
     sub \zinor by \zarqa ;
 } SingleSubstitutionlookup28;
 
-lookup markMarkPositioninginHebrewlookup0 {
+lookup ccmpMarkPositioninginHebrewlookup0 {
   lookupflag RightToLeft;
     sub [\lamed ] [\etnahta \segolta \shalshelet \zaqefkatan \zaqefgadol \tipeha \revia \zarqa 
 	\pashta \yetiv \tevir \gereshac \gereshmuqdam \gershayimac 
@@ -413,7 +414,7 @@ lookup markMarkPositioninginHebrewlookup0 {
 	\betrafe \kafrafe \perafe \aleflamed \finalkafsheva \finalkafqamats 
 	\holamvav \vavshindot \lamedholam \lameddageshholam \gimelrafe 
 	\daletrafe \herafe \tavrafe \hiriqmem ] ;
-} markMarkPositioninginHebrewlookup0;
+} ccmpMarkPositioninginHebrewlookup0;
 
 lookup ccmpGlyphCompositionDecompositioninHebrewlookup1 {
   lookupflag 0;
@@ -1930,9 +1931,40 @@ lookup ccmpGlyphCompositionDecompositioninHebrewlookup27 {
 
 feature ccmp {
 
+ script DFLT;
+     language dflt ;
+      lookup ccmpMarkPositioninginHebrewlookup0;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup1;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup2;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup3;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup4;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup5;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup6;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup7;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup8;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup9;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup10;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup11;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup12;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup13;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup14;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup15;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup16;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup17;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup18;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup19;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup20;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup21;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup22;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup23;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup24;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup25;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup26;
+      lookup ccmpGlyphCompositionDecompositioninHebrewlookup27;
+
  script hebr;
      language dflt ;
-      lookup markMarkPositioninginHebrewlookup0;
+      lookup ccmpMarkPositioninginHebrewlookup0;
       lookup ccmpGlyphCompositionDecompositioninHebrewlookup1;
       lookup ccmpGlyphCompositionDecompositioninHebrewlookup2;
       lookup ccmpGlyphCompositionDecompositioninHebrewlookup3;
@@ -1964,15 +1996,19 @@ feature ccmp {
 
 feature mark {
 
+ script DFLT;
+     language dflt ;
+      lookup ccmpMarkPositioninginHebrewlookup0;
+
  script hebr;
      language dflt ;
-      lookup markMarkPositioninginHebrewlookup0;
+      lookup ccmpMarkPositioninginHebrewlookup0;
 } mark;
 
 # GPOS 
 
 
-lookup pos_mark2base_markhebr_0 {
+lookup markMarkPositioninginHebrewlookup0 {
   lookupflag RightToLeft;
   markClass [\dagesh ] <anchor 0 0> @Anchor0;
   pos base [\het \finalmem ] <anchor 293 0> mark @Anchor0;
@@ -1981,11 +2017,11 @@ lookup pos_mark2base_markhebr_0 {
   pos base [\finaltsadi ] <anchor 24 0> mark @Anchor0;
   pos base [\circledotted ] <anchor 342 0> mark @Anchor0;
   pos base [\hiriqmem ] <anchor 293 7> mark @Anchor0;
-} pos_mark2base_markhebr_0;
+} markMarkPositioninginHebrewlookup0;
 
 lookup markMarkPositioninginHebrewlookup1 {
   lookupflag RightToLeft;
-  markClass [\sheva \hiriq ] <anchor 0 0> @Anchor1;
+  markClass [\sheva \hiriq \dieresisnosp ] <anchor 0 0> @Anchor1;
   markClass [\tsere \segol \patah \qamats \qubuts \qamatsqatan ] <anchor 0 0> @Anchor2;
   markClass [\hatafsegol \hatafpatah \hatafqamats ] <anchor 0 0> @Anchor3;
   markClass [\hatafsegolmeteg \hatafpatahmeteg \hatafqamatsmeteg ] <anchor 0 0> @Anchor4;
@@ -4953,9 +4989,43 @@ lookup markMarkPositioninginHebrewlookup30 {
 
 feature mark {
 
+ script DFLT;
+     language dflt ;
+      lookup markMarkPositioninginHebrewlookup0;
+      lookup markMarkPositioninginHebrewlookup1;
+      lookup markMarkPositioninginHebrewlookup2;
+      lookup markMarkPositioninginHebrewlookup3;
+      lookup markMarkPositioninginHebrewlookup4;
+      lookup markMarkPositioninginHebrewlookup5;
+      lookup markMarkPositioninginHebrewlookup6;
+      lookup markMarkPositioninginHebrewlookup7;
+      lookup markMarkPositioninginHebrewlookup8;
+      lookup markMarkPositioninginHebrewlookup9;
+      lookup markMarkPositioninginHebrewlookup10;
+      lookup markMarkPositioninginHebrewlookup11;
+      lookup markMarkPositioninginHebrewlookup12;
+      lookup markMarkPositioninginHebrewlookup13;
+      lookup markMarkPositioninginHebrewlookup14;
+      lookup markMarkPositioninginHebrewlookup15;
+      lookup markMarkPositioninginHebrewlookup16;
+      lookup markMarkPositioninginHebrewlookup17;
+      lookup markMarkPositioninginHebrewlookup18;
+      lookup markMarkPositioninginHebrewlookup19;
+      lookup markMarkPositioninginHebrewlookup20;
+      lookup markMarkPositioninginHebrewlookup21;
+      lookup markMarkPositioninginHebrewlookup22;
+      lookup markMarkPositioninginHebrewlookup23;
+      lookup markMarkPositioninginHebrewlookup24;
+      lookup markMarkPositioninginHebrewlookup25;
+      lookup markMarkPositioninginHebrewlookup26;
+      lookup markMarkPositioninginHebrewlookup27;
+      lookup markMarkPositioninginHebrewlookup28;
+      lookup markMarkPositioninginHebrewlookup29;
+      lookup markMarkPositioninginHebrewlookup30;
+
  script hebr;
      language dflt ;
-      lookup pos_mark2base_markhebr_0;
+      lookup markMarkPositioninginHebrewlookup0;
       lookup markMarkPositioninginHebrewlookup1;
       lookup markMarkPositioninginHebrewlookup2;
       lookup markMarkPositioninginHebrewlookup3;
